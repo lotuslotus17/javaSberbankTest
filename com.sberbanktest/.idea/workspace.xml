@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cdbd778-2ca8-418f-bd49-6a134b690c2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YioHZR7xxt4QVflrb43n8Qhiy5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="G:/IdeaProjects/first_project/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BaseTest.firstTest">
+    <configuration name="BaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.sberbanktest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseTest.firstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.sberbanktest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BaseTest" />
+      <option name="METHOD_NAME" value="firstTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseTest.secondTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.sberbanktest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BaseTest" />
+      <option name="METHOD_NAME" value="secondTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BaseTest.firstTest" />
+        <item itemvalue="JUnit.BaseTest.secondTest" />
+        <item itemvalue="JUnit.BaseTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cdbd778-2ca8-418f-bd49-6a134b690c2b" name="Default Changelist" comment="" />
+      <created>1583434688951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583434688951</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="238" key="#Project_Structure" timestamp="1583436228317">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="238" key="#Project_Structure/0.0.1920.1160@0.0.1920.1160" timestamp="1583436228317" />
+    <state x="92" y="92" width="1736" height="976" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583488461574">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="92" y="92" width="1736" height="976" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583488461574" />
+    <state x="1236" y="443" width="407" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583436418003">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1236" y="443" width="407" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1160@0.0.1920.1160" timestamp="1583436418003" />
+    <state x="690" y="327" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583487748965">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="690" y="327" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583487748965" />
+    <state x="740" y="335" key="FileChooserDialogImpl" timestamp="1583436132578">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="335" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1583436132578" />
+    <state width="1877" height="396" key="GridCell.Tab.0.bottom" timestamp="1583491187793">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1583491187793" />
+    <state width="1877" height="396" key="GridCell.Tab.0.center" timestamp="1583491187793">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1583491187793" />
+    <state width="1877" height="396" key="GridCell.Tab.0.left" timestamp="1583491187793">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1583491187793" />
+    <state width="1877" height="396" key="GridCell.Tab.0.right" timestamp="1583491187793">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1583491187793" />
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1583491187794">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1583491187794" />
+    <state width="1877" height="396" key="GridCell.Tab.1.center" timestamp="1583491187794">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1583491187794" />
+    <state width="1877" height="396" key="GridCell.Tab.1.left" timestamp="1583491187793">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1583491187793" />
+    <state width="1877" height="396" key="GridCell.Tab.1.right" timestamp="1583491187794">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1583491187794" />
+    <state x="490" y="235" key="Maven.ArtifactSearchDialog" timestamp="1583437794822">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="490" y="235" key="Maven.ArtifactSearchDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583437794822" />
+    <state x="440" y="154" key="SettingsEditor" timestamp="1583436014438">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="440" y="154" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1583436014438" />
+    <state x="655" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1583435768773">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="655" y="404" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583435768773" />
+  </component>
+</project>
