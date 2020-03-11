@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YioHZR7xxt4QVflrb43n8Qhiy5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="G:/IdeaProjects/first_project/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -30,14 +34,66 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sberbank" />
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Egor\Desktop\javaSberbankTest-master\com.sberbanktest\src\test\resources\com.sberbank.features" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.BaseTest.firstTest">
+  <component name="RunManager" selected="Cucumber java.Feature: sberbank (1)">
+    <configuration name="SmallBussinesPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sberbank.SmallBussinesPage" />
+      <module name="com.sberbanktest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sberbank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: sberbank (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/com.sberbank.features/sberbank.feature" />
+      <option name="GLUE" value="com.sberbank" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="com.sberbanktest" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: sberbank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: sberbank" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/sberbank.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="com.sberbanktest" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: sberbank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.sberbanktest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BaseTest" />
+      <option name="PACKAGE_NAME" value="com.sberbank.steps" />
+      <option name="MAIN_CLASS_NAME" value="com.sberbank.steps.BaseTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -45,19 +101,9 @@
     </configuration>
     <configuration name="BaseTest.firstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.sberbanktest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BaseTest" />
+      <option name="PACKAGE_NAME" value="com.sberbank.steps" />
+      <option name="MAIN_CLASS_NAME" value="com.sberbank.steps.BaseTest" />
       <option name="METHOD_NAME" value="firstTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaseTest.secondTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.sberbanktest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BaseTest" />
-      <option name="METHOD_NAME" value="secondTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,8 +111,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber java.Feature: sberbank (1)" />
+        <item itemvalue="Application.SmallBussinesPage" />
         <item itemvalue="JUnit.BaseTest.firstTest" />
-        <item itemvalue="JUnit.BaseTest.secondTest" />
+        <item itemvalue="Cucumber java.Feature: sberbank" />
         <item itemvalue="JUnit.BaseTest" />
       </list>
     </recent_temporary>
@@ -85,42 +133,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="238" key="#Project_Structure" timestamp="1583436228317">
+    <state x="552" y="238" key="#Project_Structure" timestamp="1583756484945">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="238" key="#Project_Structure/0.0.1920.1160@0.0.1920.1160" timestamp="1583436228317" />
+    <state x="552" y="238" key="#Project_Structure/0.0.1920.1160@0.0.1920.1160" timestamp="1583756484945" />
     <state x="92" y="92" width="1736" height="976" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583488461574">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="92" y="92" width="1736" height="976" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583488461574" />
-    <state x="1236" y="443" width="407" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583436418003">
+    <state x="1236" y="443" width="407" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583756685072">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1236" y="443" width="407" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1160@0.0.1920.1160" timestamp="1583436418003" />
+    <state x="1236" y="443" width="407" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1160@0.0.1920.1160" timestamp="1583756685072" />
     <state x="690" y="327" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583487748965">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="327" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583487748965" />
-    <state x="740" y="335" key="FileChooserDialogImpl" timestamp="1583436132578">
+    <state x="740" y="335" key="FileChooserDialogImpl" timestamp="1583925202154">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="740" y="335" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1583436132578" />
-    <state width="1877" height="396" key="GridCell.Tab.0.bottom" timestamp="1583491187793">
+    <state x="740" y="335" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1583925202154" />
+    <state width="938" height="321" key="GridCell.Tab.0.bottom" timestamp="1583925295153">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="396" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1583491187793" />
-    <state width="1877" height="396" key="GridCell.Tab.0.center" timestamp="1583491187793">
+    <state width="938" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1583925295153" />
+    <state width="938" height="321" key="GridCell.Tab.0.center" timestamp="1583925295153">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="396" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1583491187793" />
-    <state width="1877" height="396" key="GridCell.Tab.0.left" timestamp="1583491187793">
+    <state width="938" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1583925295153" />
+    <state width="938" height="321" key="GridCell.Tab.0.left" timestamp="1583925295152">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="396" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1583491187793" />
-    <state width="1877" height="396" key="GridCell.Tab.0.right" timestamp="1583491187793">
+    <state width="938" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1583925295152" />
+    <state width="938" height="321" key="GridCell.Tab.0.right" timestamp="1583925295153">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="396" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1583491187793" />
+    <state width="938" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1583925295153" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1583491187794">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -137,17 +185,21 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1583491187794" />
-    <state x="490" y="235" key="Maven.ArtifactSearchDialog" timestamp="1583437794822">
+    <state x="490" y="235" key="Maven.ArtifactSearchDialog" timestamp="1583756345811">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="490" y="235" key="Maven.ArtifactSearchDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583437794822" />
+    <state x="490" y="235" key="Maven.ArtifactSearchDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583756345811" />
     <state x="440" y="154" key="SettingsEditor" timestamp="1583436014438">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="440" y="154" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1583436014438" />
-    <state x="655" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1583435768773">
+    <state x="655" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1583925131733">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="655" y="404" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583435768773" />
+    <state x="655" y="404" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583925131733" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1583851304644">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1583851304644" />
   </component>
 </project>
