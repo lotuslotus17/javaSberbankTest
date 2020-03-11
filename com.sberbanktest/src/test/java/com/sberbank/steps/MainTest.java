@@ -9,10 +9,11 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 public class MainTest extends BaseTest {
 
     private String mainPageTitle = "«Сбербанк» - Частным клиентам";
+    private String sberbankMainPage = "https://www.sberbank.ru/";
 
     @Given("юзер открывает главную страницу")
     public void openMainPage() {
-      driver.get("https://www.sberbank.ru/");
+        driver.get(sberbankMainPage);
     }
 
     @Then("открылась страница «Сбербанк» - Частным клиентам")
